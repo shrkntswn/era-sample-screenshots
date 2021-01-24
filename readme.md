@@ -16,13 +16,26 @@
 <h5>Screenshot 7</h5>
 <img src="sample/s7-desktop.jpg" style="width:50%">
 <h3>Mobile mode</h3>
-<h5>Screenshot 1</h5>
-<img src="sample/m1.png" style="width:50%">
-<h5>Screenshot 2</h5>
-<img src="sample/m2.png" style="width:50%">
-<h5>Screenshot 3</h5>
-<img src="sample/m3.png" style="width:50%">
-<h5>Screenshot 4</h5>
-<img src="sample/m4.png" style="width:50%">
-<h5>Screenshot 5</h5>
-<img src="sample/m5.png" style="width:50%">
+
+<div class="grid-container">
+  <div class="grid-item">
+  	<h5>Screenshot 1</h5>
+  	<img src="sample/m1.png" style="width:10%">
+  </div>
+  <div class="grid-item">
+  	<h5>Screenshot 2</h5>
+	<img src="sample/m2.png" style="width:10%">
+  </div>
+  <div class="grid-item">
+  	<h5>Screenshot 3</h5>
+	<img src="sample/m3.png" style="width:10%">
+  </div>
+  <div class="grid-item">
+  	<h5>Screenshot 4</h5>
+	<img src="sample/m4.png" style="width:10%">
+  </div>
+  <div class="grid-item">
+  	<h5>Screenshot 5</h5>
+	<img src="sample/m5.png" style="width:10%">
+  </div>
+</div>
