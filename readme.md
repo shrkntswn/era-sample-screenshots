@@ -16,13 +16,22 @@
 <h5>Screenshot 7</h5>
 <img src="sample/s7-desktop.jpg" style="width:50%">
 <h3>Mobile mode</h3>
-
-<img src="sample/m1.png" style="width:10%">
-
-<img src="sample/m2.png" style="width:10%">
-
-<img src="sample/m3.png" style="width:10%">
-
-<img src="sample/m4.png" style="width:10%">
-
-<img src="sample/m5.png" style="width:10%">
+<div class="row">
+  <div class="column">
+    <img src="sample/m1.png" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="sample/m2.png" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="sample/m3.png" style="width:100%">
+  </div>
+</div>
+<div class="row">
+  <div class="column">
+    <img src="sample/m4.png" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="sample/m5.png" style="width:100%">
+  </div>
+</div>
