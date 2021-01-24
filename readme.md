@@ -16,5 +16,5 @@
 <h5>Screenshot 7</h5>
 <img src="sample/s7-desktop.jpg" style="width:50%">
 <h3>Mobile mode</h3>
-<img src="sample/sm1.jpg" style="width:100%">
-<img src="sample/sm2.jpg" style="width:100%">
+<img src="sample/sm-1.jpg" style="width:100%">
+<img src="sample/sm-2.jpg" style="width:100%">
