@@ -1,5 +1,5 @@
 <h2>Screenshots for Social Networking app Era</h2>
-<p>https://erawish.herokuapp.com</p>
+
 <h3>Desktop view</h3>
 <h5>Screenshot 1</h5>
 <img src="sample/s1-Desktop.jpg" style="width:50%">
